@@ -1,0 +1,260 @@
+{
+  "resources/js/Assets/whatsapp.png": {
+    "file": "assets/whatsapp.ef65b670.png",
+    "src": "resources/js/Assets/whatsapp.png"
+  },
+  "resources/js/Assets/logo.png": {
+    "file": "assets/logo.12b36aec.png",
+    "src": "resources/js/Assets/logo.png"
+  },
+  "resources/js/Assets/linknet_w.png": {
+    "file": "assets/linknet_w.26bedabf.png",
+    "src": "resources/js/Assets/linknet_w.png"
+  },
+  "resources/js/Assets/benefit.png": {
+    "file": "assets/benefit.c1aa0e1a.png",
+    "src": "resources/js/Assets/benefit.png"
+  },
+  "resources/js/Assets/linknet.png": {
+    "file": "assets/linknet.6c061713.png",
+    "src": "resources/js/Assets/linknet.png"
+  },
+  "resources/js/Assets/megaverse.png": {
+    "file": "assets/megaverse.fa337977.png",
+    "src": "resources/js/Assets/megaverse.png"
+  },
+  "resources/js/Assets/TV.png": {
+    "file": "assets/TV.ae448468.png",
+    "src": "resources/js/Assets/TV.png"
+  },
+  "resources/js/Assets/connection.png": {
+    "file": "assets/connection.1a5e606d.png",
+    "src": "resources/js/Assets/connection.png"
+  },
+  "resources/js/Assets/wifi.png": {
+    "file": "assets/wifi.c9aa302d.png",
+    "src": "resources/js/Assets/wifi.png"
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app.dd69e3d8.js",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.jsx",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyEmail.jsx",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/Dekstop/Dekstop.jsx",
+      "resources/js/Pages/LegalDisclaimer.jsx",
+      "resources/js/Pages/Mobile/Mobile.jsx",
+      "resources/js/Pages/Welcome.jsx"
+    ],
+    "css": [
+      "assets/app.ad21ed7f.css"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
+    "file": "assets/ConfirmPassword.56f42d63.js",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.be4d2ee7.js",
+      "_TextInput.7fbd2a8f.js",
+      "_InputLabel.8c4350ca.js",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "_PrimaryButton.be4d2ee7.js": {
+    "file": "assets/PrimaryButton.be4d2ee7.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "_TextInput.7fbd2a8f.js": {
+    "file": "assets/TextInput.7fbd2a8f.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_InputLabel.8c4350ca.js": {
+    "file": "assets/InputLabel.8c4350ca.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_ApplicationLogo.c17eaf3d.js": {
+    "file": "assets/ApplicationLogo.c17eaf3d.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "file": "assets/ForgotPassword.8bcef077.js",
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.be4d2ee7.js",
+      "_TextInput.7fbd2a8f.js",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login.20504efd.js",
+    "src": "resources/js/Pages/Auth/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.be4d2ee7.js",
+      "_TextInput.7fbd2a8f.js",
+      "_InputLabel.8c4350ca.js",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register.17e8c845.js",
+    "src": "resources/js/Pages/Auth/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.be4d2ee7.js",
+      "_TextInput.7fbd2a8f.js",
+      "_InputLabel.8c4350ca.js",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "file": "assets/ResetPassword.76c68be9.js",
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.be4d2ee7.js",
+      "_TextInput.7fbd2a8f.js",
+      "_InputLabel.8c4350ca.js",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.jsx": {
+    "file": "assets/VerifyEmail.d818717a.js",
+    "src": "resources/js/Pages/Auth/VerifyEmail.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton.be4d2ee7.js",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard.72e47533.js",
+    "src": "resources/js/Pages/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo.c17eaf3d.js"
+    ]
+  },
+  "resources/js/Pages/Dekstop/Dekstop.jsx": {
+    "file": "assets/Dekstop.b4d3219e.js",
+    "src": "resources/js/Pages/Dekstop/Dekstop.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.f6e726b4.js",
+      "_index.esm.cc40fc65.js",
+      "_Navbar.e9caee14.js"
+    ],
+    "assets": [
+      "assets/linknet_w.26bedabf.png",
+      "assets/benefit.c1aa0e1a.png"
+    ]
+  },
+  "_index.f6e726b4.js": {
+    "file": "assets/index.f6e726b4.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "assets": [
+      "assets/logo.12b36aec.png"
+    ]
+  },
+  "_index.esm.cc40fc65.js": {
+    "file": "assets/index.esm.cc40fc65.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "css": [
+      "assets/index.cd44e36a.css"
+    ],
+    "assets": [
+      "assets/whatsapp.ef65b670.png",
+      "assets/TV.ae448468.png",
+      "assets/connection.1a5e606d.png",
+      "assets/wifi.c9aa302d.png",
+      "assets/megaverse.fa337977.png"
+    ]
+  },
+  "_Navbar.e9caee14.js": {
+    "file": "assets/Navbar.e9caee14.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.f6e726b4.js"
+    ]
+  },
+  "resources/js/Pages/LegalDisclaimer.jsx": {
+    "file": "assets/LegalDisclaimer.216e3f5e.js",
+    "src": "resources/js/Pages/LegalDisclaimer.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Navbar.e9caee14.js",
+      "resources/js/app.jsx",
+      "_index.f6e726b4.js"
+    ]
+  },
+  "resources/js/Pages/Mobile/Mobile.jsx": {
+    "file": "assets/Mobile.3f1535c1.js",
+    "src": "resources/js/Pages/Mobile/Mobile.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.f6e726b4.js",
+      "_index.esm.cc40fc65.js"
+    ],
+    "css": [
+      "assets/Mobile.5f5977f6.css"
+    ],
+    "assets": [
+      "assets/linknet.6c061713.png"
+    ]
+  },
+  "resources/js/Pages/Welcome.jsx": {
+    "file": "assets/Welcome.02cc8185.js",
+    "src": "resources/js/Pages/Welcome.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm.cc40fc65.js",
+      "resources/js/Pages/Dekstop/Dekstop.jsx",
+      "resources/js/Pages/Mobile/Mobile.jsx",
+      "_index.f6e726b4.js",
+      "_Navbar.e9caee14.js"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index.cd44e36a.css",
+    "src": "index.css"
+  },
+  "resources/js/Pages/Mobile/Mobile.css": {
+    "file": "assets/Mobile.5f5977f6.css",
+    "src": "resources/js/Pages/Mobile/Mobile.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.ad21ed7f.css",
+    "src": "resources/js/app.css"
+  }
+}

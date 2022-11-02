@@ -1,0 +1,20 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-shape-divider-top-1665712299 {
+    width: auto;
+    transform: rotate(180deg);
+
+}
+
+.custom-shape-divider-top-1665712299 svg {
+    width: calc(163% + 1.3px);
+    height: 254px;
+
+
+}
+
+.custom-shape-divider-top-1665712299 .shape-fill {
+    fill: #ECF2F5;
+}

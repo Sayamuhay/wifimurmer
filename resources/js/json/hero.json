@@ -1,0 +1,17 @@
+{
+  "hero": [
+    {
+      "title": "heroSatu",
+      "imageUrl": "/Assets/heroSatu.png"
+    },
+    {
+      "title": "heroDua",
+      "imageUrl": "/Assets/heroDua.png"
+    },
+    {
+      "title": "heroTiga",
+      "imageUrl": "/Assets/heroTiga.png"
+    }
+    
+  ]
+}

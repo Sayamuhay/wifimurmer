@@ -1,0 +1,56 @@
+/* Paketattack */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+p {
+  margin: 0;
+}
+.title {
+
+  width: 302px;
+  height: 104px;
+}
+
+.txt-874 {
+
+  top: -121px;
+  left: 156px;
+  font-size: 18px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 1);
+  width: 302px;
+  height: 30px;
+  word-wrap: break-word;
+}
+
+
+
+.txt-254 {
+
+  top: -53px;
+  left: 156px;
+  font-size: 12px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+  color: rgba(42, 103, 194, 1);
+  width: 273px;
+  height: 36px;
+  word-wrap: break-word;
+}
+
+.txt-985 {
+
+  top: -91px;
+  left: 156px;
+  font-size: 12px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 1);
+  width: 290px;
+  height: 36px;
+  word-wrap: break-word;
+}
+
+/* Group48 */
+

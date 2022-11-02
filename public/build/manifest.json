@@ -1,8 +1,4 @@
 {
-  "resources/js/Assets/whatsapp.png": {
-    "file": "assets/whatsapp.ef65b670.png",
-    "src": "resources/js/Assets/whatsapp.png"
-  },
   "resources/js/Assets/logo.png": {
     "file": "assets/logo.12b36aec.png",
     "src": "resources/js/Assets/logo.png"
@@ -15,13 +11,9 @@
     "file": "assets/benefit.c1aa0e1a.png",
     "src": "resources/js/Assets/benefit.png"
   },
-  "resources/js/Assets/linknet.png": {
-    "file": "assets/linknet.6c061713.png",
-    "src": "resources/js/Assets/linknet.png"
-  },
-  "resources/js/Assets/megaverse.png": {
-    "file": "assets/megaverse.fa337977.png",
-    "src": "resources/js/Assets/megaverse.png"
+  "resources/js/Assets/whatsapp.png": {
+    "file": "assets/whatsapp.ef65b670.png",
+    "src": "resources/js/Assets/whatsapp.png"
   },
   "resources/js/Assets/TV.png": {
     "file": "assets/TV.ae448468.png",
@@ -31,9 +23,17 @@
     "file": "assets/connection.1a5e606d.png",
     "src": "resources/js/Assets/connection.png"
   },
+  "resources/js/Assets/megaverse.png": {
+    "file": "assets/megaverse.fa337977.png",
+    "src": "resources/js/Assets/megaverse.png"
+  },
   "resources/js/Assets/wifi.png": {
     "file": "assets/wifi.c9aa302d.png",
     "src": "resources/js/Assets/wifi.png"
+  },
+  "resources/js/Assets/linknet.png": {
+    "file": "assets/linknet.6c061713.png",
+    "src": "resources/js/Assets/linknet.png"
   },
   "resources/js/app.jsx": {
     "file": "assets/app.dd69e3d8.js",
@@ -245,13 +245,13 @@
       "_Navbar.e9caee14.js"
     ]
   },
-  "index.css": {
-    "file": "assets/index.cd44e36a.css",
-    "src": "index.css"
-  },
   "resources/js/Pages/Mobile/Mobile.css": {
     "file": "assets/Mobile.5f5977f6.css",
     "src": "resources/js/Pages/Mobile/Mobile.css"
+  },
+  "index.css": {
+    "file": "assets/index.cd44e36a.css",
+    "src": "index.css"
   },
   "resources/js/app.css": {
     "file": "assets/app.ad21ed7f.css",
